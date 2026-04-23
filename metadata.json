@@ -1,0 +1,6 @@
+{
+  "name": "Secure Local Baby Monitor",
+  "description": "A high-end, secure peer-to-peer baby monitor that works locally over WiFi using WebRTC. Offers a Parent Station and Baby Station with zero-configuration.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}

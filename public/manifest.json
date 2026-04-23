@@ -1,0 +1,21 @@
+{
+  "name": "Cribby",
+  "short_name": "Cribby",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "description": "Minimalist Local Baby Monitor",
+  "icons": [
+    {
+      "src": "https://www.google.com/s2/favicons?sz=192&domain=google.com",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.google.com/s2/favicons?sz=512&domain=google.com",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
